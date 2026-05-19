@@ -2,4 +2,6 @@
 
 
 select 1 as id；
-select 2 as name
+select 2 as name；
+
+select 3 as age；
